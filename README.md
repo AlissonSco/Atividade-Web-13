@@ -18,8 +18,8 @@ Este projeto corresponde à **Atividade 13** da disciplina de **Desenvolvimento 
 As principais tags do **HTML5** utilizadas nesta atividade foram:  
 
 ```html
-<table>, <thead>, <tbody>,
-<tfoot>, <tr>, <th>, <td> 
+<form>, <label>, <input>,
+<textarea>, <select>, <option>
 ```
 ## 📂 Atividade
 
